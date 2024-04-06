@@ -1,1 +1,3 @@
-# public
+# publi
+
+This is public repository 
